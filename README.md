@@ -148,25 +148,26 @@ After **5 consecutive failed login attempts**, the account is locked for **5 min
 ## Screenshots
 
 ### Server Running
-![Server Running](Screenshots/Server running.png)
+<img width="813" height="63" alt="Server running" src="https://github.com/user-attachments/assets/a91a047e-22d5-4ffd-bb2c-69c3f5254268" />
 
 ### Successful Register and Login
-![Register Login](Screenshots/Client 1.png)
+<img width="973" height="789" alt="Client 1" src="https://github.com/user-attachments/assets/700451b4-6207-42c2-a796-49c823f5fdad" />
 
 ### Brute Force Lockout
-![Lockout](Screenshots/Client 2.png)
+<img width="676" height="421" alt="Client 2" src="https://github.com/user-attachments/assets/42e5ab24-d4f2-4509-a678-275bb778f456" />
 
 ### Over Size Payload
-![OverSized Payload](Screenshots/Client 4.png)
+<img width="419" height="641" alt="Client 4" src="https://github.com/user-attachments/assets/3e2b17ad-9523-46ae-83d8-f1675d362c0a" />
 
 ### Rate Limiting 
-![Rate Limiting](Screenshots/Client 3.png)
+<img width="554" height="540" alt="Client 3" src="https://github.com/user-attachments/assets/dd99a911-83fb-4def-9006-9a9a20dfbaa2" />
 
 ### Audit Log File
-![Log File](Screenshots/Log file.png)
+<img width="826" height="817" alt="Log file" src="https://github.com/user-attachments/assets/4db6418f-dfab-41bd-8994-8e5e4098771b" />
 
 ### No Zombie Processes
-![No Zombies](Screenshots/No zombies.png)
+<img width="772" height="77" alt="No zombies" src="https://github.com/user-attachments/assets/dc1ac67a-34cd-4a41-8576-1cded5ef9150" />
+
 
 ---
 
