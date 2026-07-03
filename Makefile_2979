@@ -1,0 +1,19 @@
+CC = gcc
+CFLAGS = -Wall -Wextra -g
+TARGET = server_2979
+SRC = server_2979.c
+LIBS = -lssl -lcrypto
+
+all: $(TARGET)
+
+$(TARGET): $(SRC)
+	$(CC) $(CFLAGS) -o $(TARGET) $(SRC) $(LIBS)
+
+clean:
+	rm -f $(TARGET)
+
+run: $(TARGET)
+	./$(TARGET)
+
+.PHONY: all clean run
+	
