@@ -90,7 +90,7 @@ sudo apt install gcc make python3 libssl-dev net-tools -y
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/ie2102-tcp-server.git
+git clone https://github.com/IT24102979/ie2102-tcp-server.git
 cd ie2102-tcp-server
 
 # Create required data directory
