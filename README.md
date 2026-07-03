@@ -148,22 +148,25 @@ After **5 consecutive failed login attempts**, the account is locked for **5 min
 ## Screenshots
 
 ### Server Running
-![Server Running](screenshots/server_running.png)
+![Server Running](Screenshots/Server running.png)
 
 ### Successful Register and Login
-![Register Login](screenshots/register_login.png)
+![Register Login](Screenshots/Client 1.png)
 
 ### Brute Force Lockout
-![Lockout](screenshots/lockout.png)
+![Lockout](Screenshots/Client 2.png)
 
-### Multiple Concurrent Clients (fork proof)
-![Fork Processes](screenshots/forked_processes.png)
+### Over Size Payload
+![OverSized Payload](Screenshots/Client 4.png)
+
+### Rate Limiting 
+![Rate Limiting](Screenshots/Client 3.png)
 
 ### Audit Log File
-![Log File](screenshots/log_file.png)
+![Log File](Screenshots/Log file.png)
 
 ### No Zombie Processes
-![No Zombies](screenshots/no_zombies.png)
+![No Zombies](Screenshots/No zombies.png)
 
 ---
 
@@ -191,9 +194,9 @@ After **5 consecutive failed login attempts**, the account is locked for **5 min
 
 ## Author
 
-**Your Name**
+Thisul De Silva
 IT24102979 | BSc (Hons) Information Technology — Cybersecurity
 SLIIT, Sri Lanka
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/thisul-de-silva/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/IT24102979)
